@@ -18,7 +18,8 @@ openai-oxide            LLM client (caching, WebSockets, structured outputs)
        ├─ sgr-agent-ml       ONNX embeddings, centroid classifier, adaptive k-NN
        └─ agents built on top:
             ├─ agent-bit      Competition agent (PAC1 benchmark, 74/104)
-            └─ rust-code      Terminal coding agent (TUI, MCP, skills)
+            ├─ rust-code      Terminal coding agent (TUI, MCP, skills)
+            └─ supervox-agent Voice agent (live translate, post-call analysis)
 ```
 
 [openai-oxide](https://github.com/fortunto2/openai-oxide) is the foundation. Persistent WebSockets, SIMD JSON, hedged requests. Published on [crates.io](https://crates.io/crates/openai-oxide), [npm](https://www.npmjs.com/package/openai-oxide), [PyPI](https://pypi.org/project/openai-oxide/).
