@@ -48,6 +48,7 @@ More about the architecture: [How I spent $250+ on an AI agent competition](http
 | [airq](https://github.com/fortunto2/airq) | Air quality CLI. Sensor + model merge, WASM core | `brew install fortunto2/tap/airq` |
 | [visa-photo](https://github.com/fortunto2/visa-photo) | Biometric visa photos. AI background removal, Dioxus desktop | `brew install fortunto2/tap/visa-photo` |
 | [supervox](https://github.com/fortunto2/supervox) | Voice toolkit. STT, VAD, TTS, mic capture | `cargo add voxkit` |
+| [OpenWok](https://github.com/fortunto2/OpenWok) | Open-source food delivery. Dioxus fullstack, QR payments, privacy-first | |
 
 #### Python: agent infra & tools
 
