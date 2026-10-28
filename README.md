@@ -13,7 +13,7 @@ Every build and every event is written up at [rustman.org](https://rustman.org).
 | **Crew Air** | Hour-by-hour shift plans for outdoor crews under California's wildfire-smoke (§5141.1) and heat (§3395) rules. Built at the Stanford Cleantech Hackathon | [airsignal.app/crew](https://airsignal.app/crew) |
 | **SuperDuper DSP** | 36 free, MIT-licensed audio plugins in Rust (CLAP, VST3, AU). An AI agent can read what every plugin hears and turn every knob over MCP | [download](https://github.com/fortunto2/superduper-dsp/releases/latest) · [repo](https://github.com/fortunto2/superduper-dsp) |
 
-Life2Film started in 2014 as a website, and that first version reached 1M+ users. That version is gone; the app is a rewrite from scratch, mobile first. The iPhone apps for Air Signal and Crew Air are on their way to the App Store. Nine of my iPhone apps are live: [App Store](https://apps.apple.com/us/developer/id1872989980).
+Life2Film started in 2014 as a website, and that first version reached 1M+ users. That version is gone; the app is a rewrite from scratch, mobile first. Nine of my iPhone apps are live: [App Store](https://apps.apple.com/us/developer/id1872989980).
 
 #### Why Rust for agents
 
@@ -72,20 +72,14 @@ More about the architecture: [How I spent $250+ on an AI agent competition](http
 
 #### Hackathons
 
-Eight in 23 days in California in October 2026: six as a builder, one as a judge, one as an observer. Each one is written up, the misses included. [All of them](https://rustman.org/wiki/hackathons/).
+Eight in 23 days in California in October 2026, each written up, the misses included. Here are the ones that placed and the ones with the most to take away; [all of them](https://rustman.org/wiki/hackathons/).
 
-| When | Event | What I did | Links |
-|------|-------|------------|-------|
-| 25 Oct 2026 | Cal Hacks 13.0, San Francisco | Judge for Technical Complexity, 652 projects | [write-up](https://rustman.org/posts/cal-hacks-13-2026/) |
-| 25 Oct 2026 | Dell x NVIDIA AI Hackathon, San Francisco | Observer: eight always-on agents on one GB10 | [write-up](https://rustman.org/posts/dell-nvidia-gb10-hackathon-2026/) |
-| 23-24 Oct 2026 | Stanford Cleantech Hackathon | Crew Air, team of two. Missed the finals | [write-up](https://rustman.org/posts/stanford-cleantech-hackathon-2026/) · [repo](https://github.com/fortunto2/stanford-cleantech-2026) |
-| 22 Oct 2026 | super{set} hackathon, San Francisco | ConsentShield: your consent decides what leaves the screen for a cloud agent | [write-up](https://rustman.org/posts/superset-hackathon-consentshield-2026/) · [repo](https://github.com/fortunto2/consentshield) |
-| 21 Oct 2026 | OC AI Builders Lightning Hackathon, Irvine | BroCheck: a 50-minute build where a decision model, not an LLM, judges two photos | [write-up](https://rustman.org/posts/oc-lightning-hackathon-brocheck-2026/) · [repo](https://github.com/fortunto2/mama-approves) |
+| When | Event | Result | Links |
+|------|-------|--------|-------|
 | 9 Oct 2026 | Cyberdefense Hackathon, San Francisco | **3rd place overall of 78.** ScreenShield: DLP for screen recordings, one Rust binary | [write-up](https://rustman.org/posts/cyberdefense-hackathon-screenshield-2026/) · [repo](https://github.com/fortunto2/screenshield) |
-| 4 Oct 2026 | Build Personal Agents Hack (Neon), San Francisco | Life2Film Director: an agent that learns your editing taste | [write-up](https://rustman.org/posts/neon-personal-agents-life2film-director-2026/) · [repo](https://github.com/fortunto2/tech-week-agent) |
-| 3-4 Oct 2026 | Hack-Nation 7, Palo Alto | AI Apprentice: a voice agent that asks an expert why, team of two | [write-up](https://rustman.org/posts/hack-nation-ai-apprentice-2026/) · [repo](https://github.com/fortunto2/ai-apprentice) |
-| Apr 2026 | BitGN PAC1 | agent-bit: 17/104 on the day, 74/104 two days later | [write-up](https://rustman.org/posts/pac1-competition-retrospective/) · [repo](https://github.com/fortunto2/agent-bit) |
 | Nov 2025 | Supabase Hackathon, Lisbon | **2nd place.** SuperStoryboard: text to storyboard, live sync into Figma | [write-up](https://rustman.org/projects/project-superstoryboard/) · [repo](https://github.com/fortunto2/superstoryboard) |
+| 25 Oct 2026 | Cal Hacks 13.0, San Francisco | Judge for Technical Complexity, 652 projects: what the most technical teams built and 13 patterns worth stealing | [write-up](https://rustman.org/posts/cal-hacks-13-2026/) |
+| 23-24 Oct 2026 | Stanford Cleantech Hackathon | Crew Air, team of two. The best validation needed no new data, and the investors' red flags | [write-up](https://rustman.org/posts/stanford-cleantech-hackathon-2026/) · [repo](https://github.com/fortunto2/stanford-cleantech-2026) |
 
 #### Where I write
 
